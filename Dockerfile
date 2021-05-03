@@ -11,4 +11,4 @@ VOLUME /srv/gitbook /srv/html
 
 EXPOSE 4000 4000
 
-CMD /usr/local/bin/gitbook install book && /usr/local/bin/gitbook serve book/
+CMD /usr/local/bin/gitbook install book && /usr/local/bin/gitbook serve source//
