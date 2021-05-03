@@ -3,3 +3,4 @@
 
 # tmp gitbook files
 _book/
+node_modules/
