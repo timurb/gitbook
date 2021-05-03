@@ -45,5 +45,7 @@ Notice the "double gitbook" in the command you run. The first one is container n
 * Gitlab docs on using Gitbook for pages: https://pages.gitlab.io/gitbook/
 
 ## License and authors
-* Everything else is authored by Timur Batyrshin
+* Author: Timur Batyrshin
 * License: MIT
+
+Contributions are welcome, make sure you add yourself to the "License and authors" section
