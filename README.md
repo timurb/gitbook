@@ -19,7 +19,7 @@ open http://localhost:4000
 
 ## Running gitbook commands inside the container
 
-You might want to run some arbitrary commands inside gitbook container for experimentation purposes (mostly for trying the plugins):
+You might want to run some arbitrary commands inside gitbook container for experimentation purposes (mostly for trying the plugins).
 
 You have several options for doing this:
 
