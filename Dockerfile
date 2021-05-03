@@ -7,8 +7,10 @@ RUN npm install --global gitbook-cli &&\
 	rm -rf /tmp/*
 
 WORKDIR /srv/gitbook
-
+COPY book.json .
 VOLUME /srv/gitbook /srv/html
+
+RUN /usr/local/bin/gitbook install
 
 EXPOSE 4000 4000
 
